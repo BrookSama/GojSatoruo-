@@ -15,22 +15,22 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '667d4460f6d5', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['96891103640']
-global.premium = ['96891103640']
-global.ownernomer = '96891103640'
-global.ownername = '( الـمـطـور )'
-global.botname = '( بـوت غـوجـو )'
-global.footer = '( غـوجـو )'
+global.owner = ['⁦970567751182⁩']
+global.premium = ['⁦970567751182⁩']
+global.ownernomer = '⁦970567751182⁩'
+global.ownername = 'Brook Sama'
+global.botname = 'Bot Brook Sama'
+global.footer = 'Brook'
 global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
-global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
-global.packname = 'https://Wa.Me/+96891103640'
-global.author = '[ غـوجـو ]'
+global.region = 'فلسطين'
+global.sc = 'https://chat.whatsapp.com/'
+global.myweb = 'https://youtube.com/'
+global.packname = 'Bot By Brook Sama⁩'
+global.author = 'برووك'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -43,8 +43,8 @@ global.mess = {
     private: '*「 هـذا الامـر فـي الـخـاص فـقـط 」◣*',
     bot: '*「 هـذا الامـر مـخـصـص لـ الـبـوت 」◣*',
     wait: '*「 انـتـظـر مـن فـضـلـك 」◣*',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 1000 Hours',
+    error: 'خطأ! ربما انتهت صلاحية مفتاح Api🤔!',
+    endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، وسيتم إعادة تعيين الحد كل 1000 ساعة',
 }
     global.limitawal = {
     premium: "Infinity",
